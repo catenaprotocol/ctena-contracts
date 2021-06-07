@@ -34,7 +34,7 @@
     4% is added to the liquidity
     2% is sent to the following wallet
     
-    I have created a fresh wallet the address is: 0x8aA5F726d9F868a21a8bd748E2f1E43bA31eb670
+    I have created a fresh wallet the address is: 0x3db5E84e0eBBEa945a0a82E879DcB7E1D1a587B4
     
     2% of every transaction will go to this wallet. Depnding on market cap and the growth of the token,
     I will periodically burn some of the tokens that are sent to this wallet.
